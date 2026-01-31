@@ -1544,6 +1544,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1769838206443",
+      "title": "个人站合集",
+      "icon": "Home",
+      "description": "cloudflare 部署的站点",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
