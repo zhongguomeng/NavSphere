@@ -46,6 +46,14 @@
           "description": "Sanyue ImgHub - A modern file hosting platform",
           "icon": "/assets/favicon_1769838459318.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769838782008_lhfppt380",
+          "title": "免费域名",
+          "href": "https://api005.dnshe.com/index.php?m=domain_hub",
+          "description": "访问 dnshe.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=api005.dnshe.com",
+          "enabled": true
         }
       ],
       "subCategories": []
