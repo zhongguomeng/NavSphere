@@ -38,6 +38,14 @@
           "description": "24小时匿名邮箱 - 创建临时邮箱地址，接收邮件，无需注册，保护您的隐私安全",
           "icon": "/assets/favicon_1769838389120.svg",
           "enabled": true
+        },
+        {
+          "id": "1769838439986",
+          "title": "Sanyue ImgHub 图床",
+          "href": "https://tubed.364066648.xyz/",
+          "description": "Sanyue ImgHub - A modern file hosting platform",
+          "icon": "/assets/favicon_1769838459318.png",
+          "enabled": true
         }
       ],
       "subCategories": []
