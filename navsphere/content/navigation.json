@@ -14,6 +14,14 @@
           "description": "监控站",
           "icon": "/assets/favicon_1769838277625.svg",
           "enabled": true
+        },
+        {
+          "id": "1769838294017",
+          "title": "COCO音乐下载站",
+          "href": "https://music.088425.xyz/",
+          "description": "简约纯净的音乐下载工具",
+          "icon": "/assets/favicon_1769838321080.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
