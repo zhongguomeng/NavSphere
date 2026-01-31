@@ -30,6 +30,14 @@
           "description": "视频聚合平台",
           "icon": "/assets/favicon_1769838369290.png",
           "enabled": true
+        },
+        {
+          "id": "1769838370278",
+          "title": "24小时匿名邮箱 | 临时邮箱服务",
+          "href": "https://mail.364066648.xyz/",
+          "description": "24小时匿名邮箱 - 创建临时邮箱地址，接收邮件，无需注册，保护您的隐私安全",
+          "icon": "/assets/favicon_1769838389120.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
