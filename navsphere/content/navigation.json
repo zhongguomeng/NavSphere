@@ -206,6 +206,14 @@
           "description": "edge 插件上传地址",
           "icon": "/assets/favicon_1768145646425.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769841570656_4v3ln252h",
+          "title": "中国梦玩家注册系统",
+          "href": "http://zc.dods.fun/",
+          "description": "",
+          "icon": "/assets/favicon_1769841580962.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
