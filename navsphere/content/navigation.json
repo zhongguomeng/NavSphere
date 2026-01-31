@@ -22,6 +22,14 @@
           "description": "简约纯净的音乐下载工具",
           "icon": "/assets/favicon_1769838321080.ico",
           "enabled": true
+        },
+        {
+          "id": "1769838347388",
+          "title": "KVideo - 视频聚合平台",
+          "href": "https://tv.364066648.xyz/",
+          "description": "视频聚合平台",
+          "icon": "/assets/favicon_1769838369290.png",
+          "enabled": true
         }
       ],
       "subCategories": []
