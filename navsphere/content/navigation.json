@@ -54,6 +54,14 @@
           "description": "免费域名注册",
           "icon": "https://tubed.364066648.xyz/file/img/HYDimzir.webp",
           "enabled": true
+        },
+        {
+          "id": "site_1769912461568_3mkt47hnx",
+          "title": "MoonTV",
+          "href": "https://50f22647.moontv-e8h.pages.dev/",
+          "description": "影视聚合",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=50f22647.moontv-e8h.pages.dev",
+          "enabled": true
         }
       ],
       "subCategories": []
