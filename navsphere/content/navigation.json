@@ -62,6 +62,14 @@
           "description": "影视聚合",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=50f22647.moontv-e8h.pages.dev",
           "enabled": true
+        },
+        {
+          "id": "site_1770208607288_8hqoxtlki",
+          "title": "网盘 - 安全分享您的内容",
+          "href": "https://pan.zcvip.ccwu.cc/",
+          "description": "CloudPaste - 安全分享您的内容，支持 Markdown 编辑和文件上传",
+          "icon": "/assets/favicon_1770208590983.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
