@@ -230,6 +230,14 @@
           "description": "",
           "icon": "/assets/favicon_1769841580962.png",
           "enabled": true
+        },
+        {
+          "id": "site_1771941517781_q5go8wcp2",
+          "title": "在线服务器列表",
+          "href": "https://www.dod168.com",
+          "description": "",
+          "icon": "/assets/favicon_1771941511044.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
