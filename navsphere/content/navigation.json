@@ -70,6 +70,14 @@
           "description": "CloudPaste - 安全分享您的内容，支持 Markdown 编辑和文件上传",
           "icon": "/assets/favicon_1770208590983.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1772029495119_1nt4upkpv",
+          "title": "my-website-blog",
+          "href": "https://blog.364066648.xyz/",
+          "description": "主页显示的描述",
+          "icon": "/assets/favicon_1772029497653.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
