@@ -78,6 +78,14 @@
           "description": "主页显示的描述",
           "icon": "/assets/favicon_1772029497653.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1774969006986_l11wu4ef2",
+          "title": "iptv-sources",
+          "href": "https://iptv.364066648.xyz/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=iptv.364066648.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
