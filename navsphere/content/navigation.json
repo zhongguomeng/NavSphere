@@ -86,6 +86,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=iptv.364066648.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1776869391163_6t5x8g9n0",
+          "title": "TVBox Aggregator - tvbox聚合源",
+          "href": "https://tvbox.dods.fun/admin",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tvbox.dods.fun",
+          "enabled": true
         }
       ],
       "subCategories": []
