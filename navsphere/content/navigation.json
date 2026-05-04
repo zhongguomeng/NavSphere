@@ -94,6 +94,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=tvbox.dods.fun",
           "enabled": true
+        },
+        {
+          "id": "site_1777903580973_jkv2pa1im",
+          "title": "zgm Mail",
+          "href": "https://mail.dods.fun/",
+          "description": "Cloud Mail 是一个 Serverless 响应式邮箱服务，支持邮件发送，可部署到 Cloudflare 平台，降低服务器成本。Cloud Mail is a serverless responsive email service that supports email sending and can be deployed on Cloudflare to reduce server costs.",
+          "icon": "/assets/favicon_1777903568358.png",
+          "enabled": true
         }
       ],
       "subCategories": []
