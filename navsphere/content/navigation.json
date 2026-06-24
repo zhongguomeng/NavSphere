@@ -102,6 +102,14 @@
           "description": "Cloud Mail 是一个 Serverless 响应式邮箱服务，支持邮件发送，可部署到 Cloudflare 平台，降低服务器成本。Cloud Mail is a serverless responsive email service that supports email sending and can be deployed on Cloudflare to reduce server costs.",
           "icon": "/assets/favicon_1777903568358.png",
           "enabled": true
+        },
+        {
+          "id": "site_1782297900879_x8vhyvivd",
+          "title": "Umami",
+          "href": "https://site.088425.xyz/",
+          "description": "-网站统计系统",
+          "icon": "/assets/favicon_1782297870626.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
